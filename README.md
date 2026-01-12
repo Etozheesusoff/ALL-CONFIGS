@@ -79,6 +79,12 @@
 
   • **Симуляция сервера:** Оптимизация обработки событий с **0.41** до **0.33**.
 
+### Результат ПОСЛЕ оптимизации (Avg: 359.6 FPS)
+![](https://github.com/Etozheesusoff/ALL-CONFIGS/blob/main/CS2/screenshots/after.png)
+
+### Результат ДО оптимизации (Avg: 299.3 FPS)
+![](https://github.com/Etozheesusoff/ALL-CONFIGS/blob/main/CS2/screenshots/before.png)
+
 ---
 
 ###  ❓Устранение неполадок
