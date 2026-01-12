@@ -1,72 +1,57 @@
-# 🎮 ALL-CONFIGS
+# ⚙️ ALL GAME CONFIGS
+
+> **Optimized settings for maximum performance and visibility.**
+> High FPS • Clear Visibility • Low Input Lag
 
 <div align="center">
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/Etozheesusoff/ALL-CONFIGS?style=for-the-badge&logo=github&color=orange)](https://github.com/Etozheesusoff/ALL-CONFIGS/commits/main)
-[![Repo Size](https://img.shields.io/github/repo-size/Etozheesusoff/ALL-CONFIGS?style=for-the-badge&logo=git&color=blue)](https://github.com/Etozheesusoff/ALL-CONFIGS)
-
-[🇷🇺 Русский](#русский) • [🇺🇸 English](#english)
+[![Download All Configs](https://img.shields.io/badge/📥_DOWNLOAD_ALL_CONFIGS_(.ZIP)-Click_Here-success?style=for-the-badge&logo=github)](https://github.com/Etozheesusoff/ALL-CONFIGS/archive/refs/heads/main.zip)
 
 </div>
 
 ---
 
-<a name="русский"></a>
-## 🇷🇺 Русский
+## 🎮 Supported Games
 
-Это центральное хранилище моих игровых конфигураций. Все инструкции по установке, бинды и параметры запуска вынесены в отдельные файлы внутри папок с играми.
+| Game | Status | Config Path | Visuals |
+| :--- | :---: | :--- | :---: |
+| **Valorant** | ✅ Ready | [`/Valorant`](./Valorant) | [Screenshots](./Valorant/screenshots) |
+| **CS2** | ✅ Ready | [`/CS2`](./CS2) | [Screenshots](./CS2/screenshots) |
+| **ARC Raiders** | 🚧 **Work in Progress** | *Coming soon* | - |
+| **Arena Breakout** | 🚧 **Work in Progress** | *Coming soon* | - |
 
-### 🕹 Список игр в репозитории:
-* **[CS2](./CS2)** — Конфиги, параметры запуска, бинды.
-* **[PUBG](./PUBG)** — Настройки графики и оптимизация.
-* **[ARC Raiders](./ARC%20Raiders)** — Настройки движка.
-* **[ABInfinite](./ABInfinite)** — Конфигурации.
-
-### 📥 Как использовать:
-1. Скачайте проект через **Code > Download ZIP**.
-2. Откройте папку нужной игры.
-3. Ознакомьтесь с файлом **`info.md`** для установки.
+*(More games coming soon)*
 
 ---
 
-<a name="english"></a>
-## 🇺🇸 English
+## 🖼️ Visual Preview
+Before installing, check the `screenshots` folder inside each game directory to see the results.
+* **Crosshair**: See exactly how the aiming reticle looks.
+* **Graphics**: Verify brightness, digital vibrance, and resolution scaling (e.g., 4:3 stretched).
 
-Central repository for my game configurations. All setup guides, keybinds, and launch options are moved to specific folders.
+**Structure example:**
+```text
+/Valorant
+  ├── /screenshots  <-- Images are here
+  ├── GameUserSettings.ini
+  └── RiotUserSettings.ini
 
-### 🕹 Games List:
-* **[CS2](./CS2)** — Configs, launch options, binds.
-* **[PUBG](./PUBG)** — Graphics settings and optimization.
-* **[ARC Raiders](./ARC%20Raiders)** — Engine settings.
-* **[ABInfinite](./ABInfinite)** — Configurations.
+❓ FAQ / Решение проблем
 
-### 📥 How to Use:
-1. Download the project via **Code > Download ZIP**.
-2. Navigate to the desired game folder.
-3. Read the **`info.md`** file for installation instructions.
+Q: Почему у меня черный экран при запуске?
 
----
+    A: Скорее всего, разрешение в конфиге (video.txt или GameUserSettings.ini) не поддерживается вашим монитором.
 
-## 🛠 Технологии и Инструменты / Tech Stack
+        Решение: Откройте файл конфига, найдите параметры разрешения (например, ResolutionSizeX / ResolutionSizeY) и установите свои значения (например, 1920 и 1080).
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=windows,github,vscode,git&theme=dark" />
-</div>
+Q: Конфиг сбрасывается после перезахода в игру.
 
----
+    A: Игра может перезаписывать файл своими настройками.
 
-## 📫 Контакты / Contacts
+        Решение: После копирования файла нажмите на него ПКМ -> Свойства и поставьте галочку "Только для чтения" (Read-only).
 
-<div align="center">
+Q: Куда кидать файлы?
 
-| Ссылка | Описание |
-| :--- | :--- |
-| [**Telegram**](https://t.me/твой_ник) | Для быстрой связи / For quick contact |
-| [**GitHub Profile**](https://github.com/Etozheesusoff) | Другие проекты / Other projects |
+    A: В папке с каждой игрой вы найдете файл ReadMe.txt (или Instructions.txt) с точным путем установки. Пожалуйста, следуйте инструкции внутри.
 
-</div>
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Etozheesusoff-configs&color=blueviolet&style=plastic&label=PROJECT+VIEWS" alt="Views" />
-</div>
+<div align="center"> <sub>Made by Etozheesusoff</sub> </div>
