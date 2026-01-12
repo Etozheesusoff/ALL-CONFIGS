@@ -38,10 +38,11 @@
 
 **Пример структуры:**
 ```text
-/Valorant
+/CS2
   ├── /screenshots  <-- Изображения находятся здесь
-  ├── GameUserSettings.ini
-  └── RiotUserSettings.ini
+  ├── autoexec.cfg
+  ├── cs2_video.txt
+  └── info.md
 ```
 ❓ FAQ / Устранение неполадок
 
@@ -83,10 +84,11 @@ Before installing, check the `screenshots` folder inside each game directory to 
 
 **Structure example:**
 ```text
-/Valorant
+/CS2
   ├── /screenshots  <-- Images are here
-  ├── GameUserSettings.ini
-  └── RiotUserSettings.ini
+  ├── autoexec.cfg
+  ├── cs2_video.txt
+  └── info.md
 ```
 ❓ FAQ / Troubleshooting
 
