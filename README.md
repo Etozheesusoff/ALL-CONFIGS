@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Download All Configs](https://img.shields.io/badge/📥_DOWNLOAD_ALL_CONFIGS_(.ZIP)-Click_Here-success?style=for-the-badge&logo=github)](https://github.com/Etozheesusoff/ALL-CONFIGS/archive/refs/heads/main.zip)
+[![Download All Configs](https://img.shields.io/badge/_DOWNLOAD_ALL_CONFIGS_(.ZIP)-Click_Here-success?style=for-the-badge&logo=github)](https://github.com/Etozheesusoff/ALL-CONFIGS/archive/refs/heads/main.zip)
 
 </div>
 
