@@ -169,6 +169,12 @@ Before installing, check the `screenshots` folder inside each game directory to 
 
   • **Server Simulation:** Optimizing event processing with **0.41** up to **0.33**.
 
+### Result AFTER optimization (Avg: 359.6 FPS)
+![](https://github.com/Etozheesusoff/ALL-CONFIGS/blob/main/CS2/screenshots/after.png)
+
+### Result BEFORE optimization (Avg: 299.3 FPS)
+![](https://github.com/Etozheesusoff/ALL-CONFIGS/blob/main/CS2/screenshots/before.png)
+
 ---
 
 ###  ❓ Troubleshooting
