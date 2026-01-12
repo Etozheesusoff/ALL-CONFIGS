@@ -59,7 +59,7 @@
 Если у вас есть вопросы или вы хотите предложить свои улучшения для конфигов:
 
 * **GitHub:** [Etozheesusoff](https://github.com/Etozheesusoff)
-* **Telegram:** [@etozheesusoff]
+* **Telegram:** [@etozheesusoff](https://t.me/etozheesusoff)
 
 ---
 
