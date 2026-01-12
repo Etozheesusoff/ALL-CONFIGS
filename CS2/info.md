@@ -31,6 +31,11 @@
 
 > **⚠️Предупреждение:** Перед запуском проверьте разрешение в файле `cs2_video.txt`, чтобы оно соответствовало вашему монитору, и впишите свою герцовку монитора в параметрах запуска!
 
+### Пользуюся обычно двумя разрешениями (4 на 3 конечно же): 
+ * 1440 x 1080 - основной
+ * 1920 x 1440 - редко (лучше качество = меньше FPS)
+
+
 ---
 <a name="english"></a>
 ## 🇺🇸 English
@@ -59,3 +64,7 @@ Launch the game and open the console (press `~`). If the settings are not applie
 
 ---
 > **⚠️ Warning:** Check your resolution in `cs2_video.txt` before launching to match your monitor, and enter your monitor hertz in the launch parameters!
+
+### I usually use two resolutions (4 by 3, of course): 
+ * 1440 x 1080 - main
+ * 1920 x 1440 - rarely (better quality = lower FPS)
