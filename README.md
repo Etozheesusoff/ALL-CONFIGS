@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/render?type=flat&color=333333&height=150&section=header&text=GAME%20SETTINGS%20COLLECTION&fontSize=50&fontAlignY=50&animation=twinkling)
-
 [![GitHub last commit](https://img.shields.io/github/last-commit/Etozheesusoff/ALL-CONFIGS?style=for-the-badge&logo=github&color=orange)](https://github.com/Etozheesusoff/ALL-CONFIGS/commits/main)
 [![Repo Size](https://img.shields.io/github/repo-size/Etozheesusoff/ALL-CONFIGS?style=for-the-badge&logo=git&color=blue)](https://github.com/Etozheesusoff/ALL-CONFIGS)
 
