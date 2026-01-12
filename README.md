@@ -141,7 +141,7 @@ Before testing, the system was updated to the latest driver versions.
 | Game | Status | Config Path | Examples |
 | :--- | :---: | :--- | :---: |
 **Valorant** | ✅ Ready | `/Valorant` | [📁 Screenshots](./Valorant/screenshots)
-**CS2** | ✅ Ready | `/CS2` | [📁 Screenshots](./CS2/screenshots)on* | - |
+**CS2** | ✅ Ready | `/CS2` | [📁 Screenshots](./CS2/screenshots)
 
 ### 🖼️ Visual Preview
 Before installing, check the `screenshots` folder inside each game directory to see the results.
