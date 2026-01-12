@@ -59,8 +59,7 @@
 Если у вас есть вопросы или вы хотите предложить свои улучшения для конфигов:
 
 * **GitHub:** [Etozheesusoff](https://github.com/Etozheesusoff)
-* **Telegram:** [@ваш_ник]
-* **Discord:** `ваш_ник#0000`
+* **Telegram:** [@etozheesusoff]
 
 ---
 
@@ -119,8 +118,7 @@ To ensure the settings work correctly, it is recommended to add the following pa
 If you have any questions or would like to suggest improvements:
 
 * **GitHub:** [Etozheesusoff](https://github.com/Etozheesusoff)
-* **Telegram:** [@your_handle]
-* **Discord:** `your_username#0000`
+* **Telegram:** [@etozheesusoff]
 
 ---
-*Last update: 2026*
+*Last update: 12.012026*
