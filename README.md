@@ -1,124 +1,63 @@
 # 🎮 ALL-CONFIGS
 
-[🇷🇺 Русский](#русский) | [🇺🇸 English](#english)
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=MY%20GAME%20SETTINGS&fontSize=70&animation=fadeIn)
+
+[![GitHub stars](https://img.shields.io/github/stars/Etozheesusoff/ALL-CONFIGS?style=for-the-badge&color=yellow)](https://github.com/Etozheesusoff/ALL-CONFIGS/stargazers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Etozheesusoff/ALL-CONFIGS?style=for-the-badge&color=blue)](https://github.com/Etozheesusoff/ALL-CONFIGS/commits/main)
+[![License](https://img.shields.io/github/license/Etozheesusoff/ALL-CONFIGS?style=for-the-badge&color=green)](https://github.com/Etozheesusoff/ALL-CONFIGS/blob/main/LICENSE)
+
+[🇷🇺 Русский](#русский) • [🇺🇸 English](#english)
+
+</div>
 
 ---
 
 <a name="русский"></a>
 ## 🇷🇺 Русский
 
-Сборник моих персональных настроек и конфигурационных файлов для различных игр. Здесь собраны оптимальные параметры для повышения производительности (FPS), улучшения видимости и комфортного геймплея.
+Сборник персональных настроек и конфигурационных файлов для различных игр. Оптимизировано для повышения производительности (FPS) и комфортной игры.
 
----
+### 📂 Как использовать
+1. Скачайте репозиторий кнопкой **Code -> Download ZIP**.
+2. Перейдите в папку нужной игры.
+3. Откройте файл **`info.md`** внутри папки — там находится подробная инструкция по установке и параметры запуска.
 
-### 📂 Способ 2: Загрузка без Git (ZIP-архив)
-
-Если вы не используете Git, вы можете скачать все файлы одним архивом:
-1. Нажмите на зеленую кнопку **"Code"** в верхней части страницы.
-2. Выберите пункт **"Download ZIP"**.
-3. Распакуйте архив в любое удобное место на вашем компьютере.
-
----
-
-### 🛠 Установка настроек
-
-Для установки конфигов следуйте этим шагам:
-
-1. **Поиск папки настроек:**
-   * Большинство игр хранят настройки в папке `%localappdata%`. Чтобы быстро её открыть: нажмите `Win + R`, введите `%localappdata%` и нажмите Enter.
-   * Для **CS2**: файлы конфигурации (`.cfg`) находятся по пути: `Steam\userdata\<ваш_id>\730\local\cfg`.
-
-2. **Замена файлов:**
-   * Перенесите файлы из папки выбранной игры в этом репозитории в соответствующую папку игры на вашем ПК.
-   * **Важно:** Всегда делайте резервную копию (бэкап) своих старых файлов перед заменой!
-
----
-
-### 🖥 Параметры запуска (Launch Options)
-
-Чтобы настройки работали корректно, рекомендуется добавить следующие параметры в свойствах игры в Steam (ПКМ по игре -> Свойства -> Общие -> Параметры запуска):
-
-| Игра | Рекомендуемые параметры |
-| :--- | :--- |
-| **CS2** | `-novid -high -threads 8 +exec autoexec.cfg` |
-| **PUBG** | `-high -nomansky -useallavailablecores -refresh 144` |
-| **ARC Raiders** | `-dx12 -high` |
-| **ABInfinite** | `-high` |
-
----
-
-### ⚠️ Дисклеймер
-
-* **На свой страх и риск:** Все изменения вы вносите самостоятельно. Автор не несет ответственности за возможные программные сбои или изменения в работе игр.
-* **Индивидуальность:** Мои настройки (чувствительность мыши, бинды, разрешение) подобраны под моё оборудование. Обязательно проверьте их и измените под себя после установки.
-
----
-
-### 📫 Контакты
-
-Если у вас есть вопросы или вы хотите предложить свои улучшения для конфигов:
-
-* **GitHub:** [Etozheesusoff](https://github.com/Etozheesusoff)
-* **Telegram:** [@etozheesusoff](https://t.me/etozheesusoff)
+### ⚠️ Важно
+Все настройки индивидуальны. Перед использованием обязательно ознакомьтесь с дисклеймером в папках с конфигами.
 
 ---
 
 <a name="english"></a>
 ## 🇺🇸 English
 
-A collection of my personal settings and configuration files for various games. These are optimal parameters to increase performance (FPS), improve visibility, and ensure comfortable gameplay.
+A collection of personal settings and configuration files for various games. Optimized for maximum performance (FPS) and smooth gameplay.
+
+### 📂 How to use
+1. Download the repository via **Code -> Download ZIP**.
+2. Navigate to the specific game folder.
+3. Open the **`info.md`** file inside — it contains detailed installation steps and launch options.
+
+### ⚠️ Important
+Settings are subjective. Please read the disclaimer in the specific config folders before applying changes.
 
 ---
 
-### 📂 Method 2: Download without Git (ZIP archive)
+## 📊 Repository Stats / Статистика
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Etozheesusoff&repo=ALL-CONFIGS&theme=react&border_radius=10" alt="Repo Card" />
+</div>
 
-If you don't use Git, you can download all files as a single archive:
-1. Click the green **"Code"** button at the top of the page.
-2. Select **"Download ZIP"**.
-3. Extract the archive to any convenient location on your computer.
+### 📫 Контакты / Contacts
+<div align="center">
 
----
+[![Telegram](https://img.shields.io/badge/Telegram-26A6E2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/твой_id)
 
-### 🛠 Installation Guide
-
-Follow these steps to install the configs:
-
-1. **Locate the settings folder:**
-   * Most games store settings in the `%localappdata%` folder. To open it quickly: press `Win + R`, type `%localappdata%`, and press Enter.
-   * For **CS2**: configuration files (`.cfg`) are located at: `Steam\userdata\<your_id>\730\local\cfg`.
-
-2. **Replace files:**
-   * Copy the files from the chosen game's folder in this repository to the corresponding game folder on your PC.
-   * **Important:** Always create a backup of your old files before replacing them!
+</div>
 
 ---
-
-### 🖥 Launch Options
-
-To ensure the settings work correctly, it is recommended to add the following parameters in the Steam game properties (Right-click game -> Properties -> General -> Launch Options):
-
-| Game | Recommended Launch Options |
-| :--- | :--- |
-| **CS2** | `-novid -high -threads 8 +exec autoexec.cfg` |
-| **PUBG** | `-high -nomansky -useallavailablecores -refresh 144` |
-| **ARC Raiders** | `-dx12 -high` |
-| **ABInfinite** | `-high` |
-
----
-
-### ⚠️ Disclaimer
-
-* **Use at your own risk:** You make all changes yourself. The author is not responsible for any software glitches or changes in game performance.
-* **Preference based:** My settings (mouse sensitivity, binds, resolution) are tailored to my hardware. Be sure to check and adjust them for yourself after installation.
-
----
-
-### 📫 Contacts
-
-If you have any questions or would like to suggest improvements:
-
-* **GitHub:** [Etozheesusoff](https://github.com/Etozheesusoff)
-* **Telegram:** [@etozheesusoff](https://t.me/etozheesusoff)
-
----
-*Last update: 12.012026*
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Etozheesusoff-configs&color=blueviolet&style=flat-square&label=VISITS" alt="Views" />
+</div>
