@@ -41,10 +41,8 @@
 
 | Игра | Статус | Путь к конфигурации | Примеры |
 | :--- | :---: | :--- | :---: |
-| **Valorant** | ✅ Ready | [`/Valorant`](./Valorant) | [Screenshots](./Valorant/screenshots) |
-| **CS2** | ✅ Ready | [`/CS2`](./CS2) | [Screenshots](./CS2/screenshots) |
-| **ARC Raiders** | 🚧 **В разработке** | *Скоро* | - |
-| **Arena Breakout** | 🚧 **В разработке** | *Скоро* | - |
+**Valorant** | ✅ Ready | `/Valorant` | [📁 Скриншоты](./Valorant/screenshots)
+**CS2** | ✅ Ready | `/CS2` | [📁 Скриншоты](./CS2/screenshots)
 
 ### 🖼️ Визуальный предварительный просмотр
 Перед установкой проверьте папку `screenshots` в каждом каталоге игры, чтобы увидеть результаты.
@@ -142,10 +140,8 @@ Before testing, the system was updated to the latest driver versions.
 
 | Game | Status | Config Path | Examples |
 | :--- | :---: | :--- | :---: |
-| **Valorant** | ✅ Ready | [`/Valorant`](./Valorant) | [Screenshots](./Valorant/screenshots) |
-| **CS2** | ✅ Ready | [`/CS2`](./CS2) | [Screenshots](./CS2/screenshots) |
-| **ARC Raiders** | 🚧 **WIP** | *Coming soon* | - |
-| **Arena Breakout** | 🚧 **WIP** | *Coming soon* | - |
+**Valorant** | ✅ Ready | `/Valorant` | [📁 Screenshots](./Valorant/screenshots)
+**CS2** | ✅ Ready | `/CS2` | [📁 Screenshots](./CS2/screenshots)on* | - |
 
 ### 🖼️ Visual Preview
 Before installing, check the `screenshots` folder inside each game directory to see the results.
