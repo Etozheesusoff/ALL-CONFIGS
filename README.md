@@ -42,7 +42,7 @@ Before installing, check the `screenshots` folder inside each game directory to 
   ├── /screenshots  <-- Images are here
   ├── GameUserSettings.ini
   └── RiotUserSettings.ini
-
+```
 ❓ FAQ / Troubleshooting
 
 Q: Why do I get a black screen on launch?
