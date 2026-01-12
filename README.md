@@ -79,11 +79,12 @@
 
   • **Симуляция сервера:** Оптимизация обработки событий с **0.41** до **0.33**.
 
-### Результат ПОСЛЕ оптимизации (Avg: 359.6 FPS)
-![](https://github.com/Etozheesusoff/ALL-CONFIGS/blob/main/CS2/screenshots/after.png)
 
 ### Результат ДО оптимизации (Avg: 299.3 FPS)
 ![](https://github.com/Etozheesusoff/ALL-CONFIGS/blob/main/CS2/screenshots/before.png)
+
+### Результат ПОСЛЕ оптимизации (Avg: 359.6 FPS)
+![](https://github.com/Etozheesusoff/ALL-CONFIGS/blob/main/CS2/screenshots/after.png)
 
 ---
 
@@ -173,17 +174,19 @@ Before installing, check the `screenshots` folder inside each game directory to 
 
 **Major changes in delays:**
 
-  • **LowLatencySleep:** Decrease from **0.22** up to **0.08** (the response has improved).
+  • **System Latency:** Improved from **0.22 ms** to **0.08 ms**.
 
-  • **Client Rendering:** Rendering acceleration with **1.75** up to **1.52**.
+  • **Client Rendering:** Reduced from **1.75 ms** to **1.52 ms**.
 
-  • **Server Simulation:** Optimizing event processing with **0.41** up to **0.33**.
+  • **Server Simulation:** Reduced from **0.41 ms** to **0.33 
+
+### Result BEFORE optimization (Avg: 299.3 FPS)
+![](https://github.com/Etozheesusoff/ALL-CONFIGS/blob/main/CS2/screenshots/before.png)
 
 ### Result AFTER optimization (Avg: 359.6 FPS)
 ![](https://github.com/Etozheesusoff/ALL-CONFIGS/blob/main/CS2/screenshots/after.png)
 
-### Result BEFORE optimization (Avg: 299.3 FPS)
-![](https://github.com/Etozheesusoff/ALL-CONFIGS/blob/main/CS2/screenshots/before.png)
+
 
 ---
 
