@@ -1,4 +1,4 @@
-# ⚙️ ALL GAME CONFIGS
+# ⚙️ ВСЕ КОНФИГИ ИГР | ALL GAMES CONFIGS 
 
 <div align="center">
   <a href="#-English">🇬🇧 <b>ENGLISH</b></a>
@@ -22,6 +22,21 @@
 > **Оптимизированные настройки для максимальной производительности и видимости.**
 > Высокая частота кадров • Четкая видимость • Низкая задержка ввода
 
+### 💻 Конфигурация ПК
+
+Перед тестированием система была приведена к актуальным версиям драйверов.
+
+ • **CPU:** Intel Core i5-12400F
+
+ • **GPU:** NVIDIA GeForce RTX 4060 (8GB)
+
+ • **RAM:** XPG LANCER 16GB DDR5
+
+ • **MB:** MSI MAG B760M MORTAR MAX
+
+ • **SSD:** Crucial P3 Plus 1TB (NVMe PCIe 4.0)
+
+
 ### 🎮 Поддерживаемые игры
 
 | Игра | Статус | Путь к конфигурации | Примеры |
@@ -44,7 +59,29 @@
   ├── cs2_video.txt
   └── info.md
 ```
-❓ FAQ / Устранение неполадок
+
+### 📊 Результаты тестирования CS2 с конфигом [CS2 FPS BENCHMARK DUST2](https://steamcommunity.com/sharedfiles/filedetails/?id=3240880604&searchtext=benchmark)
+
+> Сравнение производительности проводилось до и после применения оптимизаций конфига.
+
+
+| **Показатель** | **До** | **После** | **Прирост** |
+| :--- | :---: | :--- | :---: |
+| **Средний FPS** | 299.3 | 359.6 | +20.1% |
+| **Минимальный FPS** | 139.9 | 155.4 | +11.1% |
+| **Время кадра** | 3.34 ms | 2.78 ms | -16.7% (Быстрее) |
+
+**Основные изменения в задержках:**
+
+  • **Низкая задержка:** Снижение с **0.22** до **0.08** (отклик стал лучше).
+
+  • **Клиентский рендеринг:** Ускорение отрисовки с **1.75** до **1.52**.
+
+  • **Симуляция сервера:** Оптимизация обработки событий с **0.41** до **0.33**.
+
+---
+
+###  ❓Устранение неполадок
 
 Q: Почему при запуске появляется черный экран?h?
 
@@ -68,6 +105,22 @@ Q: Куда мне поместить эти файлы??
 > **Optimized settings for maximum performance and visibility.**
 > High FPS • Clear Visibility • Low Input Lag
 
+
+### 💻 System Specifications
+
+Before testing, the system was updated to the latest driver versions.
+
+ • **CPU:** Intel Core i5-12400F
+
+ • **GPU:** NVIDIA GeForce RTX 4060 (8GB)
+
+ • **RAM:** XPG LANCER 16GB DDR5
+
+ • **MB:** MSI MAG B760M MORTAR MAX
+
+ • **SSD:** Crucial P3 Plus 1TB (NVMe PCIe 4.0)
+
+
 ### 🎮 Supported Games
 
 | Game | Status | Config Path | Examples |
@@ -90,7 +143,29 @@ Before installing, check the `screenshots` folder inside each game directory to 
   ├── cs2_video.txt
   └── info.md
 ```
-❓ FAQ / Troubleshooting
+
+ ### 📊 Test results CS2 with config  [CS2 FPS BENCHMARK DUST2](https://steamcommunity.com/sharedfiles/filedetails/?id=3240880604&searchtext=benchmark)
+
+> Performance comparison was conducted before and after applying configuration optimizations.
+
+
+| **Indicator** | **Before** | **After** | **Increase** |
+| :--- | :---: | :--- | :---: |
+| **Average FPS** | 299.3 | 359.6 | +20.1% |
+| **Minimum FPS** | 139.9 | 155.4 | +11.1% |
+| **Frame time** | 3.34 ms | 2.78 ms | -16.7% (Faster) |
+
+**Major changes in delays:**
+
+  • **LowLatencySleep:** Decrease from **0.22** up to **0.08** (the response has improved).
+
+  • **Client Rendering:** Rendering acceleration with **1.75** up to **1.52**.
+
+  • **Server Simulation:** Optimizing event processing with **0.41** up to **0.33**.
+
+---
+
+###  ❓ Troubleshooting
 
 Q: Why do I get a black screen on launch?
 
