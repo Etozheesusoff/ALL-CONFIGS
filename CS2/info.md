@@ -29,7 +29,7 @@
 Запустите игру и откройте консоль (клавиша `~` или `Ё`). Если настройки не применились, введите вручную:
 `exec autoexec`
 
-> **⚠️Предупреждение:** Перед запуском проверьте разрешение в файле `cs2_video.txt`, чтобы оно соответствовало вашему монитору!
+> **⚠️Предупреждение:** Перед запуском проверьте разрешение в файле `cs2_video.txt`, чтобы оно соответствовало вашему монитору, и впишите свою герцовку монитора в параметрах запуска!
 
 ---
 <a name="english"></a>
@@ -58,4 +58,4 @@ Launch the game and open the console (press `~`). If the settings are not applie
 `exec autoexec`
 
 ---
-> **⚠️ Warning:** Check your resolution in `cs2_video.txt` before launching to match your monitor!
+> **⚠️ Warning:** Check your resolution in `cs2_video.txt` before launching to match your monitor, and enter your monitor hertz in the launch parameters!
