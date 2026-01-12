@@ -104,6 +104,16 @@ Q: Настройки сбрасываются после перезапуска
 Q: Куда мне поместить эти файлы??
 
     A: Внутри каждой папки с игрой вы найдете файл Info.md, с точным путем установки. Пожалуйста, следуйте инструкциям, указанным в этом файле.
+### 🔗 **Контакты:**
+<div align="left">
+<a href="https://t.me/etozheesusoff" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" alt="Telegram" height="40" width="40" style="display:inline-block; border:none; text-decoration:none;" /></a>
+<a href="https://vk.com/etozheesus" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/VK.svg" alt="VK" height="40" width="40" style="display:inline-block; border:none; text-decoration:none;" /></a>
+<a href="https://www.instagram.com/etozheesus/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="Instagram" height="40" width="40" style="display:inline-block; border:none; text-decoration:none;" /></a>
+  <a href="https://www.twitch.tv/etozheesus" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitch.svg" alt="Twitch" height="40" width="40" style="display:inline-block; border:none; text-decoration:none;" /></a>
+  <a href="https://steamcommunity.com/id/etozheesus/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Steam.svg" alt="Steam" height="40" width="40" style="display:inline-block; border:none; text-decoration:none;" /></a>
+</div>
+
+---
 
 <a name="-English"></a>
 ## 🇬🇧 English
@@ -194,5 +204,14 @@ Q: Config resets after restarting the game.
 Q: Where do I put these files?
 
     A: Inside each game folder, you will find a ReadMe.txt (or Instructions.txt) with the exact installation path. Please follow the instructions there.
+
+### 🔗 **Contacts:**
+<div align="left">
+<a href="https://t.me/etozheesusoff" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" alt="Telegram" height="40" width="40" style="display:inline-block; border:none; text-decoration:none;" /></a>
+<a href="https://vk.com/etozheesus" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/VK.svg" alt="VK" height="40" width="40" style="display:inline-block; border:none; text-decoration:none;" /></a>
+<a href="https://www.instagram.com/etozheesus/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="Instagram" height="40" width="40" style="display:inline-block; border:none; text-decoration:none;" /></a>
+  <a href="https://www.twitch.tv/etozheesus" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitch.svg" alt="Twitch" height="40" width="40" style="display:inline-block; border:none; text-decoration:none;" /></a>
+  <a href="https://steamcommunity.com/id/etozheesus/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Steam.svg" alt="Steam" height="40" width="40" style="display:inline-block; border:none; text-decoration:none;" /></a>
+</div>
 
 <div align="center"> <sub>Made by Etozheesusoff</sub> </div>
