@@ -118,7 +118,7 @@ To ensure the settings work correctly, it is recommended to add the following pa
 If you have any questions or would like to suggest improvements:
 
 * **GitHub:** [Etozheesusoff](https://github.com/Etozheesusoff)
-* **Telegram:** [@etozheesusoff]
+* **Telegram:** [@etozheesusoff](https://t.me/etozheesusoff)
 
 ---
 *Last update: 12.012026*
