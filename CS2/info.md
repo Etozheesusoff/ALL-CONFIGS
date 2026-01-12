@@ -23,7 +23,7 @@
 3. Во вкладке **Общие** найдите поле **Параметры запуска**.
 4. Впишите туда: `+exec autoexec.cfg`
 
-# ** 🇷🇺 Параметры запуска:** -novid -allow_third_party_software -freq 165 -refresh 165 +fps_max 0 +exec autoexec.cfg
+### ** 🇷🇺 Параметры запуска:** -novid -allow_third_party_software -freq 165 -refresh 165 +fps_max 0 +exec autoexec.cfg
 
 ### 3. Проверка в игре
 Запустите игру и откройте консоль (клавиша `~` или `Ё`). Если настройки не применились, введите вручную:
@@ -51,7 +51,7 @@ To make the game load your config automatically:
 3. In the **General** tab, look for **Launch Options**.
 4. Enter: `+exec autoexec.cfg`
 
-> ** 🇺🇸 Launch Options:** -novid -allow_third_party_software -freq 165 -refresh 165 +fps_max 0 +exec autoexec.cfg
+### ** 🇺🇸 Launch Options:** -novid -allow_third_party_software -freq 165 -refresh 165 +fps_max 0 +exec autoexec.cfg
 
 ### 3. Verification
 Launch the game and open the console (press `~`). If the settings are not applied, type:
