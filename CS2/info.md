@@ -7,23 +7,29 @@
 <a name="russian"></a>
 ## 🇷🇺 Русский (Russian)
 
-### 1. Куда копировать файлы?
-Вам нужно перенести скачанные файлы в две разные папки:
+### 🚀 Быстрая установка (Windows)
 
-* **Файл `autoexec.cfg`** (Бинды, прицел, настройки интерфейса):
-    * **Путь:** `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\`
-* **Файл `cs2_video.txt`** (Настройки графики и видео):
-    * **Путь:** `C:\Program Files (x86)\Steam\userdata\ВАШ_ID_STEAM\730\local\cfg\`
-    * *Примечание:* `ВАШ_ID_STEAM` — это папка с цифрами. Если вы единственный пользователь ПК, там будет всего одна такая папка.
+#### Автоматическая установка (рекомендуется)
+1. Скачайте весь репозиторий (Code → Download ZIP)
+2. Разархивируйте папку `ALL-CONFIGS-main`
+3. Запустите файл `installers/setup_cs2.bat`
+4. Следуйте инструкциям в окне командной строки
 
-### 2. Как активировать конфиг?
-Чтобы игра автоматически загружала настройки:
-1. Зайдите в **Steam** -> **Библиотека**.
-2. Нажмите правой кнопкой на **Counter-Strike 2** -> **Свойства**.
-3. Во вкладке **Общие** найдите поле **Параметры запуска**.
-4. Впишите туда: `+exec autoexec.cfg`
+#### Ручная установка
+1. Скопируйте файлы `autoexec.cfg` и `cs2_video.txt`
+2. Вставьте их по пути: `%USERPROFILE%\AppData\Local\Counter-Strike Global Offensive\game\csgo\cfg`
+3. Добавьте в параметры запуска Steam: `+exec autoexec.cfg`
 
-**Параметры запуска:** `-novid -allow_third_party_software -freq 165 -refresh 165 +fps_max 0 +exec autoexec.cfg`
+### ⚙️ Файлы конфигурации
+| Файл | Назначение |
+|------|------------|
+| `autoexec.cfg` | Основные настройки игры, прицел, сетка, бинды |
+| `cs2_video.txt` | Настройки графики и производительности |
+
+### 🔧 Настройка параметров запуска Steam
+1. Откройте Steam → Библиотека
+2. ПКМ по Counter-Strike 2 → Свойства
+3. В поле "Параметры запуска" введите: `+exec autoexec.cfg`
 
 ### 3. Проверка в игре
 Запустите игру и откройте консоль (клавиша `~` или `Ё`). Если настройки не применились, введите вручную:
@@ -40,23 +46,29 @@
 <a name="english"></a>
 ## 🇺🇸 English
 
-### 1. File Locations
-You need to copy the downloaded files to these two locations:
+### 🚀 Quick Installation (Windows)
 
-* **File `autoexec.cfg`** (Binds, crosshair, HUD):
-    * **Path:** `...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\`
-* **File `cs2_video.txt`** (Video and Graphics settings):
-    * **Path:** `...\Steam\userdata\YOUR_STEAM_ID\730\local\cfg\`
-    * *Note:* `YOUR_STEAM_ID` is a folder named with your unique numeric ID.
+#### Automatic Installation (Recommended)
+1. Download the entire repository (Code → Download ZIP)
+2. Unzip the `ALL-CONFIGS-main` folder
+3. Run the `installers/setup_cs2.bat` file
+4. Follow the instructions in the command prompt window
 
-### 2. Activation
-To make the game load your config automatically:
-1. Open **Steam** -> **Library**.
-2. Right-click **Counter-Strike 2** -> **Properties**.
-3. In the **General** tab, look for **Launch Options**.
-4. Enter: `+exec autoexec.cfg`
+#### Manual Installation
+1. Copy the files `autoexec.cfg` and `cs2_video.txt`
+2. Paste them to the path: `%USERPROFILE%\AppData\Local\Counter-Strike Global Offensive\game\csgo\cfg`
+3. Add to Steam launch options: `+exec autoexec.cfg`
 
-**Launch Options:** `-novid -allow_third_party_software -freq 165 -refresh 165 +fps_max 0 +exec autoexec.cfg`
+### ⚙️ Configuration Files
+| File | Purpose |
+|------|---------|
+| `autoexec.cfg` | Main game settings, crosshair, viewmodel, binds |
+| `cs2_video.txt` | Graphics and performance settings |
+
+### 🔧 Setting Steam Launch Options
+1. Open Steam → Library
+2. Right-click Counter-Strike 2 → Properties
+3. In "Launch Options" enter: `+exec autoexec.cfg`
 
 ### 3. Verification
 Launch the game and open the console (press `~`). If the settings are not applied, type:
