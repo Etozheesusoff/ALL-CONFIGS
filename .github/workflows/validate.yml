@@ -1,0 +1,52 @@
+name: Validate Configs
+
+on:
+  push:
+    paths:
+      - '**/*.cfg'
+      - '**/*.txt'
+      - '**/configs/**'
+  pull_request:
+    paths:
+      - '**/*.cfg'
+      - '**/*.txt'
+      - '**/configs/**'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Check file structure
+      run: |
+        echo "Checking config file structure..."
+        # Проверка наличия обязательных файлов
+        if [ ! -f "README.md" ]; then
+          echo "❌ README.md not found"
+          exit 1
+        fi
+        echo "✅ File structure OK"
+    
+    - name: Validate config syntax
+      run: |
+        echo "Validating config files..."
+        # Простая проверка на наличие базовых элементов
+        find . -name "*.cfg" -type f | while read file; do
+          if [ ! -s "$file" ]; then
+            echo "⚠️  Empty file: $file"
+          else
+            echo "✅ $file"
+          fi
+        done
+    
+    - name: Check for sensitive data
+      run: |
+        echo "Checking for sensitive information..."
+        # Проверка на потенциально чувствительные данные
+        if grep -r "password\|secret\|api_key" --include="*.cfg" --include="*.txt" .; then
+          echo "❌ Potential sensitive data found"
+          exit 1
+        fi
+        echo "✅ No sensitive data found"
