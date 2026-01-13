@@ -6,7 +6,7 @@
 
 ### How to Report
 
-Send a detailed report to: **[etozheesusoff@example.com](mailto:etozheesusoff@example.com)**
+Send a detailed report to: **[etozheesusoff@gmail.com](mailto:etozheesusoff@gmail.com)**
 
 **Include:**
 1. Type of vulnerability
@@ -101,6 +101,6 @@ We thank the security community for responsible disclosure practices.
 
 **Your security matters to us** 🛡️
 
-[Report Security Issue](mailto:etozheesusoff@example.com)
+[Report Security Issue](mailto:etozheesusoff@gmail.com)
 
 </div>
