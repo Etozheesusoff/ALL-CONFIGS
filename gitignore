@@ -1,0 +1,115 @@
+# Node_modules, package-lock, and other common exclusions
+node_modules/
+package-lock.json
+yarn.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.sublime-project
+.sublime-workspace
+*.code-workspace
+
+# OS files
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+*.lnk
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local configuration files
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Test coverage
+coverage/
+.coverage
+htmlcov/
+
+# Build output
+dist/
+build/
+
+# Personal notes and backups
+/backup/
+/old/
+*.bak
+*.backup
+notes.md
+TODO.md
+
+# Game-specific files (DO NOT include game client files)
+# Windows registry files
+*.reg
+
+# Compiled binaries for personal configs
+*.exe
+*.dll
+*.so
+
+# System config backups
+*.ini.bak
+*.cfg.bak
+
+# Large files (keep config size reasonable)
+*.iso
+*.zip
+*.rar
+*.7z
+
+# Sensitive information
+secrets/
+private/
+credentials.json
+api_keys.txt
+
+# Generated files
+*.generated.md
+*.auto.cfg
