@@ -38,7 +38,7 @@ In the interest of fostering an open and welcoming environment, we as contributo
 
 If you experience or witness unacceptable behavior, please report it by:
 
-1. **Email:** [etozheesusoff@example.com](mailto:etozheesusoff@example.com)
+1. **Email:** [etozheesusoff@gmail.com](mailto:etozheesusoff@gmail.com)
 2. **GitHub:** Open a confidential security advisory
 3. **Direct Message:** Contact a maintainer directly
 
